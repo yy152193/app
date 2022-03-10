@@ -1,3 +1,6 @@
 [submodule "ccode/libevent"]
 	path = ccode/libevent
 	url = https://github.com/libevent/libevent.git
+[submodule "ccode/WebBench"]
+	path = ccode/WebBench
+	url = https://github.com/EZLippi/WebBench.git
